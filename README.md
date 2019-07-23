@@ -29,6 +29,7 @@ We received this data through the Illinois Freedom of Information Act (FOIA). Ac
 
 ### We're looking for more:
 [CPD Search Warrants Request](https://www.muckrock.com/foi/chicago-169/complaint-for-search-records-chicago-police-department-77766/)
+
 [CCSAO Search Warrants Request](https://www.muckrock.com/foi/cook-county-365/complaint-for-search-records-cook-county-states-attorneys-office-77767/)
 
 
@@ -70,6 +71,9 @@ We received this data through the Illinois Freedom of Information Act (FOIA). Ac
 
 ## Download Data
 [Original Data](https://github.com/lucyparsons/cpdsearchwarrants/blob/master/P494685_Chicago_SearchWarrants.csv)
+
 [Geocoded Data](https://github.com/lucyparsons/cpdsearchwarrants/blob/master/P494685_Martinez_Freddy_Chicago_SWs.geocoded.csv)
+
 [Postgres dump](s3:location)
+
 [Geojson](https://github.com/lucyparsons/cpdsearchwarrants/blob/master/chicago_search_warrants.geojson)
